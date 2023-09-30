@@ -4,7 +4,7 @@ Hi 👋 My name is Phoovadet Sinsumang
 Just Studen in Thailenad
 ------------------------
 
-นักเรียน มปลาย ธรรมดาที่ชื่นชอบในเทคโนโลยี คอมพิวเตอร์และเรื่องราวเกี่ยวกับญี่ปุ่นตั้งเป้าไว้สู่การเป็น developer แดนปลาดิบ!
+นักเรียน มปลาย ธรรมดาที่ชื่นชอบในเทคโนโลยี คอมพิวเตอร์และเรื่องราวเกี่ยวกับญี่ปุ่นตั้งเป้าไว้สู่การเป็น developer เพื่อสังคม
 
 * 🌍  I'm based in Thailand Ubon ratchathani
 * ✉️  You can contact me at [phoovadet.sinsumang@gmail.com](mailto:phoovadet.sinsumang@gmail.com)

@@ -8,7 +8,7 @@ Just Studen in Thailenad
 
 * 🌍  I'm based in Thailand Ubon ratchathani
 * ✉️  You can contact me at [phoovadet.sinsumang@gmail.com](mailto:phoovadet.sinsumang@gmail.com)
-* 🧠  I'm learning Openai & Machine learning
+* 🧠  I'm learning Fast api 
 
 <a href="https://www.github.com/HakusaiTH" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HakusaiTH?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/phuw_xangkh" target="_blank" rel="noreferrer"><img

@@ -1,10 +1,12 @@
 Hi 👋 My name is Phoovadet
 ==========================
 
-Just weeb learning to code
+Just a weeb learning to code
 --------------------------
 
-A high school student in the Science and Mathematics program at Triam Udom Suksa Pattanakarn Ubon Ratchathani School, passionate about computers, robotics, and technology. Their goal is to establish their own startup to research and develop new technologies for a better quality of life. They are about to pursue a degree in IT at KMUTNB (King Mongkut's University of Technology North Bangkok).
+A high school student in the Science and Mathematics program at Triam Udom Suksa Pattanakarn Ubon Ratchathani School, passionate about computers, robotics, and technology. My goal is to establish my own startup to research and develop new technologies for the world, aiming to enhance the quality of life. I am about to pursue a degree in IT at KMUTNB (King Mongkut's University of Technology North Bangkok).
+
+
 
 * 🌍  I'm based in Ubon ratchathani
 * ✉️  You can contact me at [oatkubzaza@gmail.com](mailto:oatkubzaza@gmail.com)

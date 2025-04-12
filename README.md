@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Just a weeb learning to code
 ----------------------------
 
-A high school student in the Science and Mathematics program at Triam Udom Suksa Pattanakarn Ubon Ratchathani School, passionate about computers, robotics, and technology. My goal is to establish my own startup to research and develop new technologies for the world, aiming to enhance the quality of life. I am about to pursue a degree in IT at KMUTNB (King Mongkut's University of Technology North Bangkok).
+A high school student in the Science and Mathematics program at Triam Udom Suksa Pattanakarn Ubon Ratchathani School, passionate about computers, robotics, and technology. My goal is to establish my own startup to research and develop new technologies for the world, aiming to enhance the quality of life. I am about to pursue a degree in IT at KMUTNB Prachin Buri Campus (King Mongkut's University of Technology North Bangkok, Prachin Buri Campus).
 
 *   🌍  I'm based in Ubon ratchathani
 *   ✉️  You can contact me at [oatkubzaza@gmail.com](mailto:oatkubzaza@gmail.com)

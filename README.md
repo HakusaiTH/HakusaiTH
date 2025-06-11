@@ -4,9 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Just a weeb learning to code
 ----------------------------
 
-A high school student in the Science and Mathematics program at Triam Udom Suksa Pattanakarn Ubon Ratchathani School, passionate about computers, robotics, and technology. My goal is to establish my own startup to research and develop new technologies for the world, aiming to enhance the quality of life. I am about to pursue a degree in IT at KMUTNB Prachin Buri Campus (King Mongkut's University of Technology North Bangkok, Prachin Buri Campus).
+Hi there! I'm deeply passionate about computers, robotics, and emerging technologies.
+My ultimate goal is to build my own tech startup that focuses on researching and developing innovative solutions to improve people's quality of life.
 
-*   🌍  I'm based in Ubon ratchathani
+Currently, I'm preparing to pursue my studies at the Faculty of Information Technology and Digital Innovation, KMUTNB, where I aim to grow both technically and creatively.
+
+As part of my journey, I founded INNOBOARD EDUCATION, a startup committed to enhancing Thai education by making technology, robotics, and AI more accessible and practical for students across the country.
+Our mission is to equip Thai youth with the essential skills needed to thrive in the 21st century.
+
+I'm always open to collaboration, learning, and building meaningful tech projects.
+Let’s innovate together!
+
+
 *   ✉️  You can contact me at [oatkubzaza@gmail.com](mailto:oatkubzaza@gmail.com)
 
 

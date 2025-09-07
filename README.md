@@ -7,16 +7,13 @@ Just a weeb learning to code
 Hi there! I'm deeply passionate about computers, robotics, and emerging technologies.
 My ultimate goal is to build my own tech startup that focuses on researching and developing innovative solutions to improve people's quality of life.
 
-Currently, I'm preparing to pursue my studies at the Faculty of Information Technology and Digital Innovation, KMUTNB, where I aim to grow both technically and creatively.
-
-As part of my journey, I founded INNOBOARD EDUCATION, a startup committed to enhancing Thai education by making technology, robotics, and AI more accessible and practical for students across the country.
-Our mission is to equip Thai youth with the essential skills needed to thrive in the 21st century.
+Currently, I'm preparing to pursue my studies at the Faculty of Information Technology and Business Innovation (I-BIT), KMUTNB, where I aim to grow both technically and creatively.
 
 I'm always open to collaboration, learning, and building meaningful tech projects.
 Let’s innovate together!
 
 
-*   ✉️  You can contact me at [oatkubzaza@gmail.com](mailto:oatkubzaza@gmail.com)
+*   ✉️  You can contact me at [phoovadetnoobdev@gmail.com](mailto:phoovadetnoobdev@gmail.com)
 
 
 ### Skills 
